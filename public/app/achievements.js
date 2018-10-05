@@ -13,7 +13,7 @@
       them: { message: "Refusé", sound: "counter-them" }
     },
     "headshot": {
-      me: { message: "Headshot", sound: "headshot-me" },
+      me: { message: "Touché en pleine tête", sound: "headshot-me" },
       them: { message: "Frapé en pleine façe", sound: "headshot-them" }
     },
     "killstreak-3": {
